@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">DomesticAir</string>
+    <string name="From">From</string>
+    <string-array name="Airport">
+
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+        <item>CoxsBazar</item>
+        <item>Jessore</item>
+        <item>Rajshahi</item>
+        <item>Barisal</item>
+        <item>Saidpur</item>
+
+
+    </string-array>
+
+    <string name="To">To</string>
+    <string-array name="Airport1">
+
+        <item>Dhaka</item>
+        <item>Chittagong</item>
+        <item>Sylhet</item>
+        <item>CoxsBazar</item>
+        <item>Jessore</item>
+        <item>Rajshahi</item>
+        <item>Barisal</item>
+        <item>Saidpur</item>
+
+
+    </string-array>
+    <string name="chooseAclass">choose a class</string>
+    <string-array name="choseClass">
+        <item>Economy</item>
+        <item>Business</item>
+        <item>Luxury</item>
+
+
+    </string-array>
+
+    <string name="TicketWanted">TicketWanted</string>
+    <string-array name="Ticket">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+
+
+    </string-array>
+    <string name="title_activity_map">Map</string>
+
+
+</resources>
